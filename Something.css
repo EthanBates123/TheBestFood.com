@@ -1,0 +1,57 @@
+body {
+    background-color: #E1EBF7;
+   
+    
+}
+
+#Header {
+    text-align: center;
+    background-color: blanchedalmond;
+    border-style: groove;
+    border-color:rgb(50, 50, 50);
+    border-width: 3.5px;
+    padding: 15px;
+}
+
+#Nav {
+    position: fixed;
+    background-color:bisque;
+    border-width: 3px;
+    border-color:rgb(50, 50, 50);
+    border-style:groove;
+
+}
+
+#Recipe {
+    border-style:groove;
+    border-color:rgb(50, 50, 50);
+    border-width: 3px;
+    padding: 15px;
+    margin-left: 25%;
+
+}
+
+#Footer {
+    background-color: aliceblue;
+    margin-left:12%;
+    margin-right:12.001%;
+    Text-align:Center;
+    border-color: black;
+    Border-width: 3.5px;
+    border-style:groove;
+
+}
+img {
+    width: 500px;
+    height: 500px;
+    border-color: rgb(50, 50, 50);
+    border-width: 3px;
+    border-style:groove;
+    border-radius: 1%;
+    display: block;
+
+}
+
+
+
+
